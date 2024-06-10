@@ -4,9 +4,9 @@
 información sobre nuestras carreras y programas académicos.                                          
 
 ## Carreras Ofrecidas 🚀                                                                           
-1. **Ingeniería Militar**                                                                          
-2. **Ingeniería en Sistemas Militares**                                                            
-3. **Ingeniería en Logística Militar**                                                             
+1. **Ingeniería Civil**                                                                          
+2. **Ingeniería en Sistemas**                                                            
+3. **Ingeniería Comercial**                                                             
 
     ## ¡Prepárate para el Desafío! 💪                                                                  
 
