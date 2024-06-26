@@ -11,19 +11,7 @@ información sobre nuestras carreras y programas académicos.
     ## ¡Prepárate para el Desafío! 💪                                                                  
 
     En nuestra escuela, formamos a los futuros líderes en ingeniería militar, brindando una educación  
-    de excelencia y oportunidades únicas de aprendizaje.                                                 
-
-    ## Contenido del Repositorio 📚                                                                    
-
-    - **Ingeniería Militar**                                                                           
-      - Plan de estudios                                                                               
-      - Recursos académicos                                                                            
-    - **Ingeniería en Sistemas Militares**                                                             
-      - Proyectos destacados                                                                           
-      - Investigaciones                                                                                
-    - **Ingeniería en Logística Militar**                                                              
-      - Seminarios y conferencias                                                                      
-      - Prácticas profesionales                                                                        
+    de excelencia y oportunidades únicas de aprendizaje.                                                                                                                                                                                                          
 
     ## ¡Únete a Nuestra Misión! 🌟                                                                     
 
